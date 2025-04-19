@@ -7,3 +7,4 @@ shapely
 opencv-python
 overpy
 ultralytics
+albumentations
